@@ -1,0 +1,2 @@
+vgi=input()
+print(vgi)
