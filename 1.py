@@ -1,2 +1,2 @@
 df,gh=input().split()
-print(df[:int(gh)]
+print(df[:int(gh)])
